@@ -1,0 +1,23 @@
+(1)website
+collectin of web pages
+(2)web page
+collection of informtion
+web page search proccessing to webserver and displaye to webbrowser
+(3)web browser
+programe run plateform
+web browser not search engine
+web page search and show browser user
+(4)web server
+web server connect internet 
+data store
+(5)search engine
+data search
+website search
+(6)html
+hyper text marcup language
+structure of website
+(7)sdlc
+software developvment life cycle
+(8)css
+web desining colour
+ 
