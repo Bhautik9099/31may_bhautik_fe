@@ -1,0 +1,32 @@
+ module 2
+
+(1)URL
+-uniform resource locator
+-url is find information internet
+
+(2)https
+-hyper text transfor proctocol secure
+-domain name
+-https use website domin name sesrch easy user website
+
+(3)seo
+-search engine optimization
+-seo work is user serch website proces intenet server server send internet show server
+
+(4)host
+-data store
+
+(5)hosting
+-data store and apply to user
+
+(6)domain
+-domain is ip address
+-google .com
+
+(7)clint 
+-clint is user
+
+(8)server
+-user search information and and go server server place intrnet show resule web browser 
+-server is internet
+-internet is server
